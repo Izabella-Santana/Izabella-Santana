@@ -1,80 +1,79 @@
 <!-- ============================================== -->
 <!-- BANNER SUPERIOR -->
 <!-- ============================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Izabella%20Santana&fontSize=45&fontColor=F3E8FF&fontAlignY=38&desc=Backend%20Developer%20&%20AI%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn" alt="Banner Izabella Santana" width="100%" />
-</p>
-
-<!-- ============================================== -->
-<!-- APRESENTAÇÃO DINÂMICA -->
-<!-- ============================================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B58AFF&center=true&vCenter=true&width=600&lines=IT+Student+at+UNIVESP;Building+robust+Backend+systems+(Java);Exploring+Artificial+Intelligence+%26+LLMs;Seeking+Internship+Opportunities" alt="Typing SVG" />
-  
-  <br><br>
-
-  <p align="center">
-    <em>"Construindo bases sólidas em backend e explorando o potencial transformador da Inteligência Artificial."</em>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=Welcome%20to%20Izabella's%20GitHub&fontSize=40&fontColor=8B5CF6&desc=%3C/%3E&descSize=20&descAlignY=70&descColor=B58AFF" alt="Banner Izabella" width="100%" />
 </div>
 
----
+<!-- ============================================== -->
+<!-- LINKS SOCIAIS -->
+<!-- ============================================== -->
+<div align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/E--MAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-### 👩🏻‍💻 Sobre Mim
+<br><br>
 
-<table width="100%" style="border-color: transparent;">
+<!-- ============================================== -->
+<!-- ABOUT ME -->
+<!-- ============================================== -->
+<h3 align="center">👤 Sobre mim</h3>
+<hr>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="65%" valign="top">
-      Olá! Sou a <b>Izabella</b>, estudante de <b>Tecnologia da Informação na UNIVESP</b>. Atualmente, direciono meus estudos e projetos para o desenvolvimento <b>Backend</b> e aplicações práticas com <b>Inteligência Artificial</b>.<br><br>
-      Busco minha primeira oportunidade de <b>estágio em tecnologia</b>, com foco especial em ecossistemas Java/Spring Boot e iniciativas voltadas a IA, automação e engenharia de dados.<br><br>
-      🎯 <b>Objetivo atual:</b> Consolidar bases em arquitetura de microsserviços, consumo e criação de APIs REST robustas, além de integrar modelos de linguagem (LLMs) em soluções reais.
+    <td width="70%" valign="center">
+      Olá! Sou a <b>Izabella Santana</b>, estudante de Tecnologia da Informação. Gosto de aprender novas tecnologias e de aplicar a lógica de programação na resolução de problemas reais.<br><br>
+      🎓 A estudar na <b>UNIVESP</b><br>
+      💻 Foco em <b>Backend (Java, Spring Boot) e Inteligência Artificial</b><br>
+      🚀 À procura de oportunidades de estágio na área tecnológica<br>
     </td>
-    <td width="35%" valign="top">
-      <b>📍 Localização:</b> São Paulo, Brasil<br>
-      🎓 <b>Formação:</b> TI na UNIVESP<br>
-      🌱 <b>Foco:</b> Java, Spring & IA<br>
-      💼 <b>Status:</b> Buscando Estágio<br>
+    <td width="30%" align="center">
+      <img src="https://i.pinimg.com/originals/a4/89/3f/a4893f415392cf99a7e02e093019ee65.gif" width="150" alt="Astronauta" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🛠️ Tech Stack & Ferramentas
+<!-- ============================================== -->
+<!-- TECHNOLOGIES -->
+<!-- ============================================== -->
+<h3 align="center">⚙️ Tecnologias</h3>
+<hr>
 
 <div align="center">
-
-| Categoria | Foco de Estudo e Desenvolvimento |
-| :--- | :--- |
-| **Backend & Linguagens** | Desenvolvimento de APIs, lógica de negócios e estruturação de dados. |
-| **Inteligência Artificial** | Integração com LLMs, engenharia de prompts e automação. |
-| **Ferramentas & Ambiente** | Versionamento, testes de API e ambientes de desenvolvimento. |
-
+  <img src="https://img.shields.io/badge/JAVA-161B22?style=for-the-badge&logo=java&logoColor=8B5CF6" alt="Java" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-161B22?style=for-the-badge&logo=spring-boot&logoColor=8B5CF6" alt="Spring" />
+  <img src="https://img.shields.io/badge/PYTHON-161B22?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="SQL" />
+  <img src="https://img.shields.io/badge/AI_&_LLMs-161B22?style=for-the-badge&logo=openai&logoColor=8B5CF6" alt="AI" />
+  <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=postman&logoColor=8B5CF6" alt="APIs" />
+  <img src="https://img.shields.io/badge/GIT-161B22?style=for-the-badge&logo=git&logoColor=8B5CF6" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LINUX-161B22?style=for-the-badge&logo=linux&logoColor=8B5CF6" alt="Linux" />
 </div>
 
 <br>
 
-<p align="center">
-  <!-- Backend & Linguagens -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <!-- IA & Automação -->
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/LLMs-B58AFF?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="APIs REST" />
-  <br>
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+<!-- ============================================== -->
+<!-- STATISTICS -->
+<!-- ============================================== -->
+<h3 align="center">📈 Estatísticas</h3>
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izabella-Santana&bg_color=161B22&title_color=8B5CF6&text_color=A1A1AA&icon_color=E879F9&border_color=0D1117&show_icons=true&hide_border=false&count_private=true" alt="
+  <img src="https://github-readme-stats.vercel.app/api?username=Izabella-Santana&bg_color=0D1117&title_color=8B5CF6&text_color=A1A1AA&icon_color=B58AFF&border_color=161B22&show_icons=true&hide_border=false" alt="Estatísticas Gerais" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izabella-Santana&theme=dark&background=0D1117&border=161B22&stroke=8B5CF6&ring=B58AFF&fire=E879F9&currStreakNum=F3E8FF&currStreakLabel=A1A1AA&sideNums=F3E8FF&sideLabels=A1A1AA&dates=A1A1AA" alt="Estatísticas de Sequência" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Izabella-Santana&bg_color=0D1117&color=8B5CF6&line=B58AFF&point=E879F9&area=true&hide_border=false&border_color=161B22" alt="Gráfico de Contribuições" width="100%" />
+</div>
