@@ -5,11 +5,10 @@
 
 ### 👩‍💻 Sobre mim
 
-Oi! 👋 Sou estudante de programação e uma pessoa curiosa por natureza, que gosta de aprender coisas novas e descobrir como a tecnologia funciona por trás de tudo.
 
-Atualmente, estou estudando **Java** e **Python** e me aprofundando cada vez mais no universo da **Inteligência Artificial**. Gosto de explorar novas ferramentas, colocar meus conhecimentos em prática e entender como posso transformar ideias em algo real através do código.
+Olá! 👋 Sou estudante de programação e apaixonada por tecnologia. Atualmente, estou estudando Java e Python e me aprofundando em Inteligência Artificial.
 
-Ainda estou construindo minha trajetória na tecnologia, aprendendo um pouco a cada dia, enfrentando desafios e buscando evoluir constantemente.
+Gosto de aprender coisas novas, explorar tecnologias e colocar meus conhecimentos em prática. Estou sempre buscando evoluir e desenvolver minhas habilidades na área de programação. 🚀
 
 <br>
 
