@@ -52,7 +52,7 @@
 | **Backend & Linguagens** | `Java` `Spring Boot` `Python` `SQL` |
 | **Inteligência Artificial** | `LLMs` `Prompt Engineering` `Automação de Processos` |
 | **Arquitetura & Dados** | `APIs REST` `Git` `GitHub` `Docker (Estudando)` |
-| **Ambiente & Produtividade** | `Linux` `VS Code` `IntelliJ IDEA` |
+| **Ambiente & Produtividade** | `VS Code` `IntelliJ IDEA` |
 
 </div>
 
