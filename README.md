@@ -3,13 +3,13 @@
   Substitua "SEU_USUARIO_AQUI" pelo seu username real do GitHub nos links das imagens de estatísticas abaixo!
 -->
 
-## Olá! 👋 Sou estudante de programação
-
 ### 👩‍💻 Sobre mim
 
-Sou fascinada por tecnologia, desenvolvimento de software e por entender como os sistemas funcionam nos bastidores. Atualmente, concentro meus estudos nas linguagens **Java** e **Python**, e estou aprofundando meus conhecimentos no campo de **Inteligência Artificial**. 
+Oi! 👋 Sou estudante de programação e uma pessoa curiosa por natureza, que gosta de aprender coisas novas e descobrir como a tecnologia funciona por trás de tudo.
 
-Meu objetivo profissional é o aprendizado contínuo. Busco construir uma base técnica muito sólida e acompanhar as inovações da área para, a cada dia, me tornar uma desenvolvedora melhor. Acredito que a tecnologia é uma ferramenta poderosa e me dedico constantemente para dominar as melhores práticas da engenharia de software.
+Atualmente, estou estudando **Java** e **Python** e me aprofundando cada vez mais no universo da **Inteligência Artificial**. Gosto de explorar novas ferramentas, colocar meus conhecimentos em prática e entender como posso transformar ideias em algo real através do código.
+
+Ainda estou construindo minha trajetória na tecnologia, aprendendo um pouco a cada dia, enfrentando desafios e buscando evoluir constantemente.
 
 <br>
 
