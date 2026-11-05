@@ -1,77 +1,54 @@
-<!-- ============================================== -->
-<!-- BANNER SUPERIOR -->
-<!-- ============================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&stroke=8B5CF6&strokeWidth=2&height=200&section=header&text=Izabella%20Santana&fontSize=42&fontColor=F3E8FF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Artificial%20Intelligence%20Student&descSize=16&descAlignY=62&animation=twinkle" alt="Banner Izabella Santana" width="100%" />
-</p>
-
-<!-- ============================================== -->
-<!-- APRESENTAÇÃO / ABOUT ME -->
-<!-- ============================================== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Izabella%20Santana&fontSize=50&fontColor=F3E8FF&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Enthusiast&descAlignY=61&descSize=20" alt="Izabella Santana Banner" width="100%" />
 
-  <img src="https://komarev.com/ghpvc/?username=Izabella-Santana&color=8B5CF6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
-  
-  <br><br>
-
-  <p align="center">
-    <em>"Construindo bases sólidas em backend e explorando o potencial transformador da Inteligência Artificial."</em>
-  </p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B58AFF&center=true&vCenter=true&width=500&lines=IT+Student+at+UNIVESP;Backend+Developer+(Java);Exploring+AI+%26+LLMs;Seeking+Internship+Opportunities" alt="Typing SVG" />
 </div>
 
----
+<br>
 
-### 💻 Sobre Mim
+## 👩🏻‍💻 About Me
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      Olá! Sou a <b>Izabella</b>, estudante de <b>Tecnologia da Informação na UNIVESP</b>. Atualmente, direciono meus estudos e projetos para o desenvolvimento <b>Backend</b> e aplicações práticas com <b>Inteligência Artificial</b>.<br><br>
-      Busco minha primeira oportunidade de <b>estágio em tecnologia</b>, com foco especial em ecossistemas Java/Spring Boot e iniciativas voltadas a IA, automação e engenharia de dados.<br><br>
-      🎯 <b>Objetivo atual:</b> Consolidar bases em arquitetura de microsserviços, consumo e criação de APIs REST robustas, além de integrar modelos de linguagem (LLMs) em soluções reais.
-    </td>
-    <td width="35%" align="center" valign="top">
-      <br>
-      <b>📍 Localização:</b> Brasil<br>
-      🎓 <b>Formação:</b> TI na UNIVESP<br>
-      🌱 <b>Foco:</b> Java, Spring & IA<br>
-      💼 <b>Status:</b> Buscando Estágio<br>
-    </td>
-  </tr>
-</table>
+Hello! I'm Izabella, an Information Technology student at **UNIVESP** with a strong focus on building resilient backend systems and exploring the fascinating world of Artificial Intelligence. I am currently honing my skills in software architecture and automation, preparing to transition into a professional Backend Developer role.
 
----
+- 🔭 Currently studying: **Java, Spring Boot, RESTful APIs, and Python**.
+- 🧠 Exploring: **Artificial Intelligence, LLMs, and Process Automation**.
+- 💼 Goal: Seeking **Internship opportunities** in Tech/AI to build real-world solutions.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN-AQUI) | [Email](mailto:SEU-EMAIL-AQUI)
 
-### 🛠️ Tech Stack & Ferramentas
+<br>
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-<h4>Backend & Linguagens</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres&theme=dark" alt="Backend Icons" />
-  </a>
-</p>
-
-<h4>Ferramentas</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,linux&theme=dark" alt="Tools Icons" />
-  </a>
-</p>
-
-<h4>Inteligência Artificial</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8B5CF6?style=for-the-badge&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/LLMS-B58AFF?style=for-the-badge&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-E879F9?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
-</p>
-
+  <table>
+    <tr>
+      <td align="center"><b>Backend & Automation</b></td>
+      <td align="center"><b>Data & AI</b></td>
+      <td align="center"><b>Tools & DevOps</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" alt="Backend" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql&theme=dark" alt="Data and AI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker&theme=dark" alt="Tools" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
 
-### 🚀 Projetos em Destaque
+## 📊 GitHub Analytics
 
-> *
+<div align="center">
+  <img src="
