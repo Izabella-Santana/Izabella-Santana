@@ -2,12 +2,14 @@
   ⚠️ IMPORTANTE: 
   Substitua "SEU_USUARIO_AQUI" pelo seu username real do GitHub nos links das imagens de estatísticas abaixo!
 -->
+
 <div align="center">
-  <!-- Banner dinâmico em tons de roxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,B57EDC&height=250&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Banner de Boas-Vindas" width="100%" />
+  <!-- Banner dinâmico em tons de roxo com o seu nome -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,B57EDC&height=250&section=header&text=Izabela%20Santana&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Banner Izabela Santana" width="100%" />
 </div>
 
 <br>
+
 ### 👩‍💻 Sobre mim
 
 
