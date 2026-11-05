@@ -1,130 +1,52 @@
-<!-- ============================================== -->
-<!-- BANNER SUPERIOR -->
-<!-- ============================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Izabella%20Santana&fontSize=45&fontColor=F3E8FF&fontAlignY=38&desc=Backend%20Developer%20&%20AI%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn" alt="Banner Izabella Santana" width="100%" />
-</p>
+<!-- 
+  ⚠️ IMPORTANTE: 
+  Substitua "SEU_USUARIO_AQUI" pelo seu username real do GitHub nos links das imagens de estatísticas abaixo!
+-->
 
-<!-- ============================================== -->
-<!-- APRESENTAÇÃO DINÂMICA -->
-<!-- ============================================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B58AFF&center=true&vCenter=true&width=600&lines=IT+Student+at+UNIVESP;Building+robust+Backend+systems+(Java);Exploring+Artificial+Intelligence+%26+LLMs;Seeking+Internship+Opportunities" alt="Typing SVG" />
-  
-  <br><br>
+## Olá! 👋 Sou estudante de programação
 
-  <p align="center">
-    <em>"Construindo bases sólidas em backend e explorando o potencial transformador da Inteligência Artificial."</em>
-  </p>
-</div>
+### 👩‍💻 Sobre mim
 
----
+Sou fascinada por tecnologia, desenvolvimento de software e por entender como os sistemas funcionam nos bastidores. Atualmente, concentro meus estudos nas linguagens **Java** e **Python**, e estou aprofundando meus conhecimentos no campo de **Inteligência Artificial**. 
 
-### 👩🏻‍💻 Sobre Mim
+Meu objetivo profissional é o aprendizado contínuo. Busco construir uma base técnica muito sólida e acompanhar as inovações da área para, a cada dia, me tornar uma desenvolvedora melhor. Acredito que a tecnologia é uma ferramenta poderosa e me dedico constantemente para dominar as melhores práticas da engenharia de software.
 
-<table width="100%" style="border-color: transparent;">
-  <tr>
-    <td width="65%" valign="top">
-      Olá! Sou a <b>Izabella</b>, estudante de <b>Tecnologia da Informação na UNIVESP</b>. Atualmente, direciono meus estudos e projetos para o desenvolvimento <b>Backend</b> e aplicações práticas com <b>Inteligência Artificial</b>.<br><br>
-      Busco minha primeira oportunidade de <b>estágio em tecnologia</b>, com foco especial em ecossistemas Java/Spring Boot e iniciativas voltadas a IA, automação e engenharia de dados.<br><br>
-      🎯 <b>Objetivo atual:</b> Consolidar bases em arquitetura de microsserviços, consumo e criação de APIs REST robustas, além de integrar modelos de linguagem (LLMs) em soluções reais.
-    </td>
-    <td width="35%" valign="top">
-      <b>📍 Localização:</b> São Paulo, Brasil<br>
-      🎓 <b>Formação:</b> TI na UNIVESP<br>
-      🌱 <b>Foco:</b> Java, Spring & IA<br>
-      💼 <b>Status:</b> Buscando Estágio<br>
-    </td>
-  </tr>
-</table>
-
----
+<br>
 
 ### 🛠️ Tech Stack & Ferramentas
 
-<div align="center">
+Trabalho diariamente para expandir meus conhecimentos. Atualmente, meu foco de estudo e desenvolvimento envolve:
 
-| Categoria | Foco de Estudo e Desenvolvimento |
-| :--- | :--- |
-| **Backend & Linguagens** | Desenvolvimento de APIs, lógica de negócios e estruturação de dados. |
-| **Inteligência Artificial** | Integração com LLMs, engenharia de prompts e automação. |
-| **Ferramentas & Ambiente** | Versionamento, testes de API e ambientes de desenvolvimento. |
-
+<div align="left">
+  <img src="https://img.shields.io/badge/VS_Code-2E0B5B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-5C10A1?style=for-the-badge&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6A0DAD?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/API_REST-8A2BE2?style=for-the-badge&logoColor=white" alt="API REST" />
+  <img src="https://img.shields.io/badge/Git-9370DB?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-B57EDC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 <br>
 
-<p align="center">
-  <!-- Backend & Linguagens -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <!-- IA & Automação -->
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/LLMs-B58AFF?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="APIs REST" />
-  <br>
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izabella-Santana&bg_color=161B22&title_color=8B5CF6&text_color=A1A1AA&icon_color=E879F9&border_color=0D1117&show_icons=true&hide_border=false&count_private=true" alt="Estatísticas do GitHub" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izabella-Santana&bg_color=161B22&title_color=8B5CF6&text_color=A1A1AA&border_color=0D1117&layout=compact&hide_border=false" alt="Linguagens Mais Usadas" height="192" />
+  <!-- Troféus do GitHub -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Izabella-Santana&bg_color=161B22&color=8B5CF6&line=B58AFF&point=E879F9&area=true&hide_border=false&border_color=0D1117" alt="Gráfico de Contribuições" width="100%" />
-</div>
-
----
-
-### 🚀 Projetos em Destaque
-
-> *Meus principais repositórios focados em construção de APIs e automações.*
-
-<div align="center">
-
-| Repositório / Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[Em breve]** | *Repositório de estudos práticos em Java e arquitetura Spring Boot.* | `Java` `Spring` |
-| **[Em breve]** | *Automação de processos e integração com scripts em Python.* | `Python` |
-| **[Em breve]** | *Explorando APIs e consumo de modelos de inteligência artificial.* | `Python` `AI` |
-
-</div>
-
-*(Nota: Espaço reservado para fixar projetos reais assim que os repositórios públicos forem estruturados).*
-
----
-
-### 📬 Conexões & Contato
-
-<div align="center">
-  <a href="https://github.com/Izabella-Santana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Status gerais do GitHub -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B57EDC&text_color=E6E6FA&icon_color=9370DB" alt="Estatísticas do GitHub" width="48%" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
-    <img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <!-- Linguagens mais utilizadas -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&hide_border=true&bg_color=0d1117&title_color=B57EDC&text_color=E6E6FA" alt="Linguagens mais utilizadas" width="48%" />
   </a>
 </div>
-
-<!-- ============================================== -->
-<!-- BANNER INFERIOR -->
-<!-- ============================================== -->
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=120&section=footer" alt="Footer Banner" width="100%" />
-</p>
