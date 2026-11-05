@@ -2,7 +2,7 @@
 <!-- BANNER SUPERIOR -->
 <!-- ============================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Izabella%20Santana&fontSize=42&fontColor=F3E8FF&fontAlignY=38&desc=Backend%20Developer%20&%20Artificial%20Intelligence%20Student&descSize=16&descAlignY=62&animation=fadeIn" alt="Banner Izabella Santana" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&stroke=8B5CF6&strokeWidth=2&height=200&section=header&text=Izabella%20Santana&fontSize=42&fontColor=F3E8FF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Artificial%20Intelligence%20Student&descSize=16&descAlignY=62&animation=twinkle" alt="Banner Izabella Santana" width="100%" />
 </p>
 
 <!-- ============================================== -->
@@ -47,30 +47,25 @@
 
 <div align="center">
 
-<h3 align="center">Backend & Linguagens</h3>
+<h4>Backend & Linguagens</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres&theme=dark" alt="Backend Icons" />
+  </a>
 </p>
 
-<h3 align="center">Ferramentas</h3>
+<h4>Ferramentas</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,linux&theme=dark" alt="Tools Icons" />
+  </a>
 </p>
 
-<h3 align="center">Inteligência Artificial</h3>
+<h4>Inteligência Artificial</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/LLMs-B58AFF?style=for-the-badge&logo=anaconda&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-E879F9?style=for-the-badge&logo=robotframework&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8B5CF6?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/LLMS-B58AFF?style=for-the-badge&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-E879F9?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 </div>
@@ -79,20 +74,4 @@
 
 ### 🚀 Projetos em Destaque
 
-> *Espaço reservado para os seus principais repositórios de estudo, APIs desenvolvidas em Java/Spring Boot ou automações com Python/IA.*
-
-<div align="center">
-
-| Repositório / Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[Em breve]** | *Repositório de estudos práticos em Java e arquitetura Spring Boot.* | `Java` `Spring` |
-| **[Em breve]** | *Automação de processos e integração com scripts em Python.* | `Python` |
-| **[Em breve]** | *Explorando APIs e consumo de modelos de inteligência artificial.* | `Python` `AI` |
-
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="
+> *
