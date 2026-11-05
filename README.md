@@ -4,8 +4,8 @@
 -->
 
 <div align="center">
-  <!-- Banner dinâmico em tons de roxo com o seu nome -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,B57EDC&height=250&section=header&text=Izabela%20Santana&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Banner Izabela Santana" width="100%" />
+  <!-- Banner dinâmico forçado para gradiente Roxo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:B57EDC&height=250&section=header&text=Izabela%20Santana&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Banner Izabela Santana" width="100%" />
 </div>
 
 <br>
