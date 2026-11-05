@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Banner dinâmico forçado para gradiente Roxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:B57EDC&height=250&section=header&text=Izabela%20Santana&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Banner Izabellla Santana" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:B57EDC&height=250&section=header&text=Izabella%20Santana&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Banner Izabellla Santana" width="100%" />
 </div>
 
 <br>
