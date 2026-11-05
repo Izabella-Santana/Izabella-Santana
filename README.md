@@ -17,14 +17,10 @@ Meu objetivo profissional é o aprendizado contínuo. Busco construir uma base t
 
 Trabalho diariamente para expandir meus conhecimentos. Atualmente, meu foco de estudo e desenvolvimento envolve:
 
-<div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-2E0B5B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-5C10A1?style=for-the-badge&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6A0DAD?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/API_REST-8A2BE2?style=for-the-badge&logoColor=white" alt="API REST" />
-  <img src="https://img.shields.io/badge/Git-9370DB?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-B57EDC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,python,java,spring,git,github" alt="Minhas Ferramentas" />
+  <br><br>
+  <img src="https://img.shields.io/badge/API_REST-8A2BE2?style=for-the-badge&logo=postman&logoColor=white" alt="API REST" />
 </div>
 
 <br>
